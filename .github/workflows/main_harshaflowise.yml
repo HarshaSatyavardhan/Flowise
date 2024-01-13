@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'harshaflowise'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F6A41BCFDFB451FA986B248E58AC730 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A25CB2C83E444B3BA8623035863D818 }}
           package: .
